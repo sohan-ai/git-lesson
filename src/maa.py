@@ -1,5 +1,5 @@
 def myfun(x):
-    print( x**x)
+    print( 2+x**x)
     print("maa mora")
 
-myfun(5)
+myfun(5+4)
